@@ -14,4 +14,5 @@ public class Order extends AbsractEntity{
 
     private String codeOrder;
     private String quantity;
+    private String typeOrder;
 }
