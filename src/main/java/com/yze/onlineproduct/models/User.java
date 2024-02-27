@@ -17,5 +17,5 @@ public class User extends AbsractEntity {
     private String username;
     private String password;
     private String role;
-    
+
 }
