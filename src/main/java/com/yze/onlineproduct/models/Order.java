@@ -15,5 +15,6 @@ import lombok.experimental.SuperBuilder;
 public class Order extends AbsractEntity{
 
     private String codeOrder;
+    private String typeOrder;
     private Integer quantity;
 }
